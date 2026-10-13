@@ -163,12 +163,6 @@ The REST API is documented in [`docs/API.md`](docs/API.md). Main resource groups
 The original audit and implementation status are recorded in
 [`docs/REVAMP_PLAN.md`](docs/REVAMP_PLAN.md).
 
-## Project status
-
-The secure local application and Docker workflow are implemented. Production
-hosting, persistent cloud media, transactional email, load testing, and CI/CD are
-deliberately tracked as future work. The project does not claim 500 real users;
-that figure should only be used after documented load testing or verified usage.
 
 ## Screenshots
 
